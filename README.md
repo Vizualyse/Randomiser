@@ -1,5 +1,3 @@
-# Randomiser
-A Smite Randomiser with rules
 # Rexsi Smite Randomiser
 
 A randomiser built for Rexsi for use in his randomiser Youtube series
