@@ -4,11 +4,4 @@
 [Phsyical]Afford Full Items
 [Phsyical]No Boots
 [Phsyical]No Flat Pen
-[Phsyical]No Lifesteal
-[Magical]No Bancroft's or Bracer
-[Magical]AA or Ability Based (Opposite)
-[Magical]2 Evolving Stacking Items
-[Magical]Afford Full Items
-[Magical]No Boots
-[Magical]No Flat Pen
-[Magical]No Lifesteal
+[Phsyical]No Life
