@@ -12,3 +12,14 @@
 [Magical]No Boots
 [Magical]No Flat Pen
 [Magical]No Lifesteal
+[Phsyical]Move Speed Build
+[Phsyical]Only Defence
+[Phsyical]Full Health
+[Phsyical]Attack Speed Item Only
+[Phsyical]100% Lifesteal
+[Phsyical]100% Crit
+[Magical]Move Speed Build
+[Magical]Only Defence
+[Magical]Full Health
+[Magical]Attack Speed Item Only
+[Magical]100% Lifesteal
